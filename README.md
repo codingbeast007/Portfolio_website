@@ -46,9 +46,3 @@ If you have trouble with this tutorial please tell me about it by [Create an iss
 If you like this tutorial, please [give it a ⭐ star](https://github.com/codingbeast007/Portfolio_website).
 
 ---
-
-## Licence 📜
-
-You may use this tutorial freely at your own risk. See [LICENSE](https://github.com/rajvidja/SalaryPredictorML/blob/fc109e935cf9717e178c15a3986c62bda9b1cbb6/LICENSE).
-
-Copyright (c) 2023 Raj Vidja
